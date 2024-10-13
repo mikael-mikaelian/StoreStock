@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "NvOqA9w6H3B2iMdDAHArIbyRBcRJtkZuvEJO8BwuNzE=",
+  "Source": "StoreStock.API",
+  "BasePath": "_content/StoreStock.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
